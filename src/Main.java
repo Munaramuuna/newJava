@@ -4,5 +4,10 @@ public class Main {
         System.out.println("Hello Java-10!");
         System.out.println("Hello Java-10!");
         System.out.println("Hello Java-10!");
+        System.out.println("Hello Java-9!");
+        System.out.println("Hello Java-9!");
+        System.out.println("Hello Java-9!");
+        System.out.println("Hello Java-9!");
+        System.out.println("Hello Java-9!");
     }
 }
