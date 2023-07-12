@@ -1,3 +1,5 @@
+package LMS;
+
 public class Student{
     private String name;
     private String surname;
@@ -35,7 +37,7 @@ public class Student{
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "LMS.Student{" +
                 "name='" + name + '\'' +
                 ", surname='" + surname + '\'' +
                 ", age=" + age +
